@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+body{
+    font-family: "Afacad Flux", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+img{
+height: 500px;
+width: 500px;
+
+}
+.loja{
+    height:500px;
+    width:700px;
+    justify-items: center;    
+}
+.eu{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+header h1{
+    text-align: center;
+    background: #171717;
+    color: white;
+    padding: 40px;
+    margin-bottom: 0px;
+    
+    
+}
+nav{
+    text-align: center;
+    background: red;
+    
+    padding: 20px;
+    margin-top:0px;
+    
+}
+nav a{
+    color:white;
+    text-decoration: none;
+    padding-left: 20px;
+}
+
+h2{
+    text-align: center;
+    background: #171717;
+    color: white;
+    padding: 40px;
+    margin-bottom: 0px;
+}
+
+#projeto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
